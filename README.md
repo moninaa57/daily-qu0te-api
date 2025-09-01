@@ -1,6 +1,6 @@
 # Daily Quote API 🌟
 
-A simple yet fun API that returns a random motivational or funny quote every day.  
+A simple yet fun API that returns a random motivational or funny quote every dy.  
 Built with **Python + FastAPI** 🚀  
 
 ---
